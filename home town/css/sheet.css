@@ -1,0 +1,14 @@
+header {
+     width:100%;
+     background-image: url("../images/ski.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+
+.ttl {
+	font-family: 'Actor', sans-serif;
+}
+
+.yyo{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
