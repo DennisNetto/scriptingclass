@@ -43,7 +43,7 @@ function make() {
         var text = document.getElementById("bootlibb").innerHTML; 
         document.getElementById("bootlibb").innerHTML = text.replace("option1", animal);
         if (wheather == "Sunny"){
-          document.getElementById("photo").src = "images/rainy.jpg";
+          document.getElementById("photo").src = "images/sunny.jpg";
           document.getElementById("photo").alt = "background";
         }
         else if (wheather == "Foggy"){
