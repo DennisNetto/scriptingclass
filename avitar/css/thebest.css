@@ -1,0 +1,9 @@
+#canvas{
+    position: relative;
+    height: 650px;
+}
+
+#snowman, #hat, #nose, #scarf, #hands, #button{
+    position:absolute;
+}
+
